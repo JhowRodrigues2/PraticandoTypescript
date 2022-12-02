@@ -1,7 +1,7 @@
 
 // Tuplas simples 
-let pessoa: [string,string,number];
-pessoa=['Jhow Rodrigues','front end developer', 29]; 
+let people: [string,string,number];
+people=['Jhow Rodrigues','front end developer', 29]; 
 
 // Outra forma de usar Tuplas
 let pessoa2:[Nome:string, posicao:string, idade:number]=['Jhow Rodrigues','front end developer', 29]; 
