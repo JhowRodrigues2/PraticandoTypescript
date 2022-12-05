@@ -14,5 +14,5 @@ console.log(saudar('Olá Mundo'))
 // exemplo03 - arrow function
 const saudar_03=(mensagem:string)=>{
 return mensagem
-
 }
+
