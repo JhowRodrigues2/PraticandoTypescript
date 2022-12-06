@@ -1,5 +1,5 @@
 "use strict";
-// exemple01 - desconto ja está explicito o seu valor
+// exemple01 - desconto ja está explicito o seu valor, parametros rest e default devem vim por último
 function descontoCompra(preco, desconto = 0.08) {
     return preco * (1 - desconto);
 }
