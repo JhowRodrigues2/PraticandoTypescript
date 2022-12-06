@@ -9,4 +9,3 @@ function somarNum(...numeros:number[]){
 console.log(somarNum(50,40,66,40,11,2))
 
 
-// exemple02 

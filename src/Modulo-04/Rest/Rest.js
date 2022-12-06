@@ -7,4 +7,3 @@ function somarNum(...numeros) {
     return total;
 }
 console.log(somarNum(50, 40, 66, 40, 11, 2));
-// exemple02 
